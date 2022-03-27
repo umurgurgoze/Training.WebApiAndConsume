@@ -1,0 +1,16 @@
+﻿
+<html>
+<head>
+    <title>Yeni Dosya Ekle</title>
+</head>
+<body>   
+    <form asp-action="Upload" asp-controller="Home" method="post" enctype="multipart/form-data">
+        <label>Dosya Seçiniz:</label>
+        <input type="file" name="file" />  
+        <div>
+            <a asp-action="Index" asp-controller="Home">Geri Dön</a>
+            <button type="submit">Gönder</button>
+        </div>
+    </form>
+</body>
+</html>
