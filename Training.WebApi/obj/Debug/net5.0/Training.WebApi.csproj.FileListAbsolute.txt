@@ -61,3 +61,4 @@ C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\WebApi\Training.WebApi\Training.We
 C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\WebApi\Training.WebApi\Training.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\WebApi\Training.WebApi\Training.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\WebApi\Training.WebApi\Training.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\WebApi\Training.WebApi\Training.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
